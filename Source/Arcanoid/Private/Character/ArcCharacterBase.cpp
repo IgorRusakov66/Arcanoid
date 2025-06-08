@@ -1,17 +1,15 @@
 // Project by Igor Rusakov.
 
 
-#include "ArcCharacterBase.h"
+#include "Character/ArcCharacterBase.h"
 
 
 AArcCharacterBase::AArcCharacterBase()
 {
 	PrimaryActorTick.bCanEverTick = false;
-
 }
 
 void AArcCharacterBase::BeginPlay()
 {
 	Super::BeginPlay();
-	
 }

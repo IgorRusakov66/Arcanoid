@@ -1,7 +1,7 @@
 // Project by Igor Rusakov.
 
 
-#include "ArcLevelActorBase.h"
+#include "LevelActor/ArcLevelActorBase.h"
 
 
 AArcLevelActorBase::AArcLevelActorBase()
